@@ -1,7 +1,7 @@
 *.html linguist-detectable=false
 *.tex linguist-detectable=false
 *.fd linguist-detectable=false
-*.bst linguist-detectable=false
+*.toc linguist-detectable=false
 *.aux linguist-detectable=false
 *.bbl linguist-detectable=false
 *.blg linguist-detectable=false
