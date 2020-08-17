@@ -3,8 +3,8 @@
 *.fd linguist-detectable=false
 *.toc linguist-detectable=false
 *.aux linguist-detectable=false
-*.bbl linguist-detectable=false
-*.blg linguist-detectable=false
+*.pkg linguist-detectable=false
+*.zip linguist-detectable=false
 *.brf linguist-detectable=false
 *.cls linguist-detectable=false
 *.dtx linguist-detectable=false
